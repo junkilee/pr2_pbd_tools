@@ -1,0 +1,15 @@
+*Action*.msg
+*Feedback.msg
+*Goal.msg
+*Result.msg
+*.pyc
+.project
+.pydevproject
+.settings
+bin
+build
+msg_gen
+node_modules
+srv_gen
+ROS/src/CMakeLists.txt
+ROS/devel/
